@@ -5,3 +5,4 @@ k=0
 while(k<=3):
     print(k+1)
     k+=1
+print(90)
